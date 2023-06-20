@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ajcm-nxt
+- 👋 Hi, ... screw Github
 - 👀 I’m interested in ... screw Github
 - 🌱 I’m currently learning ... screw Github
 - 💞️ I’m looking to collaborate on ... screw Github
-- 📫 How to reach me ... just don't bother me.
+- 📫 How to reach me .... screw Github
 
 <!---
 ajcm-nxt/ajcm-nxt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
